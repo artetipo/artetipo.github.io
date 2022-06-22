@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: #FFF !important;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: 500;
+  }
+
+.linkhead {
+    color: aquamarine;
+    font-size: 16px;
+  }
+   
