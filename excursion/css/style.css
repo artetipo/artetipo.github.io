@@ -14,5 +14,16 @@ h1 {
 .linkhead {
     color: aquamarine;
     font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
    
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:gray;
+  font-size: 21px;
+}
+  
+figure {
+    text-align: center;
+  }
